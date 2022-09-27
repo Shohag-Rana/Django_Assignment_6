@@ -1,4 +1,7 @@
 # databases 
+from msilib.schema import AdminExecuteSequence
+
+
 DATABASES = {
     'default': { 
         'ENGINE': 'django.db.backends.postgresql',
@@ -15,3 +18,8 @@ DEBUG = True
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-f!(7@aoc*o^)n*@408_3kk*4732*9ajz=nhks=2yld08-jw5#r'
+
+
+#super user
+# username: admin 
+# password: admin 
