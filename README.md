@@ -17,6 +17,7 @@ In this project the user data are shows pagination order. The data can be filter
   - Postgres
   - Virtualenv and Pip
   - A CPU with at least 2 core
+  - IDE (VS, Pycharm)
 
 ## Installation and Project Setup
 
