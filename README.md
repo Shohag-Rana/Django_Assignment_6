@@ -49,5 +49,5 @@ In this project the user data are shows pagination order. The data can be filter
 ## Conculation
 
 In this django project i use jinja2 template to render postgresql backend data into frontend. postgreSQL data are stored into online server https://railway.app/. The filter and location search option are included in this
-project. All the data are shows in pagination order. Thank you all
+project. All the data are shows in pagination order. Thank you all the people
  
